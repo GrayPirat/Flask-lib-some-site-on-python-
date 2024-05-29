@@ -1,0 +1,54 @@
+.wall{background-color:beige;
+margin-right: 20px;
+margin-left: 20px}
+.brad {border: 4px lightgrey double;
+    background-color: lightgrey;
+    padding: 25px;
+    border-radius: 30px 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+    }
+ 
+.b-radius2 {border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: rgb(255,140,0);
+    color: rgb(80,41,41) 
+    }
+ 
+.b-radius3 {border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 13em 0.5em/1em 0.5em;
+    background-color: rgb(255,255,255);
+    color: rgb(68,10,70);
+    }
+ .b-radius4 {border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: rgb(255,255,0);
+    color: rgb(8,71,19);
+    }
+ 
+.b-radius5 {border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 10px 10px;
+    background-color: rgb(211,211,211);
+    }
+.flex-column{
+.flex-direction:column!important}
+.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}
+.justify-content-between{justify-content:space-between!important}
+.flex-md-row{flex-direction:row!important}
+.sticky-top{background-color:aliceblue;position:-webkit-sticky;position:sticky;top:0;z-index:1020}
+.d-none {display: none !important;}
+.d-md-inline-block {display: inline-block !important;}
+.title1{
+padding: 10px;
+border-radius: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
